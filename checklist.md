@@ -1,14 +1,22 @@
-# CHECKlST - semana 01 -
-## Requisitos previos
--[x] Git.
--[x] Node js
--[x] npm
--[x] Git bash o WSL2 (windows subsistem linux)
--[x] Visual studio code
-## Estructura proyecto
--[] Crear carpeta src
--[x] Crear carpeta scripts
--[x] Crear fichero package. json
--[] Crear fichero git.node
--[]
-##
+# CHECKLIST - semana 01 -
+
+## **Requisitos previos**
+
+- [x] Git.
+- [x] Node Js
+- [x] npm
+- [x] Git Bash o WSL2 (Windows Subsisten linux)
+- [x] Visual studio code
+
+## Estructura del proyecto
+
+- [x] Crear carpeta src
+- [x] Crear carpeta scripts
+- [x] Crear fichero package.json
+- [x] Crear el fichero .gitignore
+- [] He realizado conexión con GitHub de este proyecto
+
+## Scritps de validación
+
+- [x] He creado script de validación (validate)
+- [] He creado scripts de test
