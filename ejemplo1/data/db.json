@@ -1,0 +1,106 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "authorId": 1,
+      "year": 2008,
+      "category": "Software Engineering",
+      "price": 29.99,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Clean Architecture",
+      "authorId": 1,
+      "year": 2017,
+      "category": "Software Architecture",
+      "price": 34.99,
+      "available": true
+    },
+    {
+      "id": 3,
+      "title": "You Don't Know JS: Scope & Closures",
+      "authorId": 2,
+      "year": 2014,
+      "category": "JavaScript",
+      "price": 19.99,
+      "available": true
+    },
+    {
+      "id": 4,
+      "title": "You Don't Know JS: Async & Performance",
+      "authorId": 2,
+      "year": 2015,
+      "category": "JavaScript",
+      "price": 21.99,
+      "available": false
+    },
+    {
+      "id": 5,
+      "title": "Eloquent JavaScript",
+      "authorId": 3,
+      "year": 2018,
+      "category": "JavaScript",
+      "price": 24.99,
+      "available": true
+    },
+    {
+      "id": 6,
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "authorId": 4,
+      "year": 1994,
+      "category": "Software Architecture",
+      "price": 39.99,
+      "available": true
+    },
+    {
+      "id": 7,
+      "title": "The Pragmatic Programmer",
+      "authorId": 5,
+      "year": 1999,
+      "category": "Software Development",
+      "price": 34.99,
+      "available": true
+    },
+    {
+      "id": 8,
+      "title": "Programming Pearls",
+      "authorId": 6,
+      "year": 1986,
+      "category": "Algorithms",
+      "price": 18.99,
+      "available": true
+    },
+    {
+      "id": 9,
+      "title": "Introduction to Algorithms",
+      "authorId": 7,
+      "year": 2009,
+      "category": "Algorithms",
+      "price": 44.99,
+      "available": false
+    },
+    {
+      "id": 10,
+      "title": "Refactoring",
+      "authorId": 8,
+      "year": 1999,
+      "category": "Software Engineering",
+      "price": 32.99,
+      "available": true
+    }
+  ],
+  "authors": [
+    { "id": 1, "name": "Robert C. Martin", "country": "USA" },
+    { "id": 2, "name": "Kyle Simpson", "country": "USA" },
+    { "id": 3, "name": "Marijn Haverbeke", "country": "Netherlands" },
+    { "id": 4, "name": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides", "country": "Switzerland" },
+    { "id": 5, "name": "Andrew Hunt, David Thomas", "country": "USA" },
+    { "id": 6, "name": "Jon Bentley", "country": "USA" },
+    { "id": 7, "name": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein", "country": "USA" },
+    { "id": 8, "name": "Martin Fowler", "country": "UK" },
+    { "id": 9, "name": "Steve McConnell", "country": "USA" },
+    { "id": 10, "name": "Donald E. Knuth", "country": "USA" }
+  ]
+}
