@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lanzar-json-server": "json-server --watch data/db.json"
+    "lanzar-json-server": "json-server --watch data/db.json",
+    "parar-json-server:windows": "kill $(ps -ef | grep '[j]son-server' | awk '{print $2}')",
+    "lanzar-script-peticioneshttp": "bash scripts/peticioneshttp.sh"
   },
   "keywords": [],
   "author": "",

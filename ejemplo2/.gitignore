@@ -1,0 +1,18 @@
+#Gitignore sirve para indicar a git que ficheros debe de no  hacer squimiento y por tanto no subir a github
+
+
+#variables de entorno
+.env
+.DS_Store
+
+#archivos de sistema
+Thumbs.db
+
+#Dependencias
+node_modules/
+
+#Carpetas build
+dist/
+build/
+
+#logs

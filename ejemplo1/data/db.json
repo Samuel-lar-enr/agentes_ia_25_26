@@ -89,6 +89,15 @@
       "category": "Software Engineering",
       "price": 32.99,
       "available": true
+    },
+    {
+      "id": 11,
+      "title": "Bee Movie",
+      "authorId": 11,
+      "year": 2007,
+      "category": "Animation",
+      "price": 14.99,
+      "available": true
     }
   ],
   "authors": [
